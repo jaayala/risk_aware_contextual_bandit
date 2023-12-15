@@ -1,6 +1,6 @@
 # Risk-Aware Continuous Control with Neural Contextual Bandits
 
-Implementation for AAAI'24 of the paper: [Risk-Aware Continuous Control with Neural Contextual Bandits](#) 
+Source code of the paper: [Risk-Aware Continuous Control with Neural Contextual Bandits](#) published in the proceedings of AAAI'24.
 
 ## Dependencies
 * Python >= 3.8
@@ -16,6 +16,4 @@ To reproduce results from the paper, use `run_all.sh`. This script runs all the 
 ./run_all.sh
 ```
 
- 
-This repository will be publicly available on GitHub upon the acceptance of the paper.
 
